@@ -60,7 +60,10 @@
             justify-content: center;
 
         }
-        
+         .navheading{
+             transform: translateY(0px) !important;
+             color: white !important;
+        }
     }
 
     /* Rotate the builtin arrows of bootstrap */
