@@ -31,6 +31,7 @@
     .navheading{
         padding: 5px;
         background-color: #EE1C25;
+        color: white;
        padding-bottom: 10px;
     }
     .navSupport{
@@ -59,10 +60,7 @@
             justify-content: center;
 
         }
-        .navheading{
-            background-color: rgb(243, 240, 240);
-            color: black;
-        }
+        
     }
 
     /* Rotate the builtin arrows of bootstrap */
